@@ -11,3 +11,8 @@ Renamed the title to "Horiseon".
 ## Code Source 
 
 HTTPS GitHub Repository: https://github.com/kalynsifuentez/challenge-1.git
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
