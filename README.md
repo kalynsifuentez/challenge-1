@@ -11,6 +11,7 @@ Renamed the title to "Horiseon".
 ## Code Source 
 
 HTTPS GitHub Repository: https://github.com/kalynsifuentez/challenge-1.git
+Deployed Application: [Horiseon SEO] (https://kalynsifuentez.github.io/challenge-1/)
 
 ## Screenshots
 
